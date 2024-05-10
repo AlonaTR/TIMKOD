@@ -1,0 +1,36 @@
+File: norm_wiki_sample.txt
+max_dict_size: 4096
+Size before (LZW): 86311528 bits
+Size after (LZW): 5452663 bits
+Compression Ratio (LZW): 15.829243068937142
+
+File: norm_wiki_sample.txt
+max_dict_size: 4096
+Size before (LZW + Huffman): 86311528 bits
+Size after (LZW + Huffman): 5396140 bits
+Compression Ratio (LZW + Huffman): 15.995049794853358
+
+File: wiki_sample.txt
+max_dict_size: 4096
+Size before (LZW): 95272128 bits
+Size after (LZW): 6658369 bits
+Compression Ratio (LZW): 14.308628434380852
+
+File: wiki_sample.txt
+max_dict_size: 4096
+Size before (LZW + Huffman): 95272128 bits
+Size after (LZW + Huffman): 6547911 bits
+Compression Ratio (LZW + Huffman): 14.550003504934628
+
+File: lena.bmp
+max_dict_size: 4096
+Size before (LZW): 92199504 bits
+Size after (LZW): 13485325 bits
+Compression Ratio (LZW): 6.83702498827429
+
+File: lena.bmp
+max_dict_size: 4096
+Size before (LZW + Huffman): 92199504 bits
+Size after (LZW + Huffman): 12055576 bits
+Compression Ratio (LZW + Huffman): 7.647872154760585
+
